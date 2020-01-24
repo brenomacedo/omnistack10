@@ -8,6 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "react-native-dotenv",
     "@react-native-community/masked-view": "^0.1.6",
     "axios": "^0.19.1",
     "dotenv": "^8.2.0",
