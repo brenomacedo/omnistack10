@@ -8,8 +8,9 @@
 <br>
 <br>
 
-<img src="https://media.discordapp.net/attachments/361207438487191556/668339939217375242/waw.png?width=971&height=474">
-
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/361207438487191556/668339939217375242/waw.png?width=971&height=474">
+</p>
 <br>
 <br>
 
