@@ -1,5 +1,5 @@
 import socketio from 'socket.io-client'
-require('dotenv').config()
+import { BASEURL } from 'react-native-dotenv
 
 const socket = socketio(process.env.BASEURL, {
     autoConnect: false
