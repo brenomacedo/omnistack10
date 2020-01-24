@@ -1,5 +1,5 @@
 import axios from 'axios'
-require('dotenv').config()
+import { BASEURL } from 'react-native-dotenv
 const api = axios.create({
     baseURL: process.env.BASEURL
 })
